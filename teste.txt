@@ -1,0 +1,3 @@
+git remote add origin https://github.com/CosmoAndrade/VSCode_Teste.git
+git branch -M main
+git push -u origin main
